@@ -1,5 +1,5 @@
 {
-  "name": "fire-component",
+  "name": "firecomponent",
   "version": "1.0.0",
   "description": "A Vue.js Plugin for components wrapping Firebase integration.",
   "author": "David Mattia",
